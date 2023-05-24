@@ -7,8 +7,10 @@ Go to the OpenWeatherMap website (https://openweathermap.org/) and sign up for a
 After signing up, you will receive an API key. This key is required to access the weather data.
 
 2.Install the required libraries:
->>>> pip install geocoder
->>>> pip install requests
+```python
+     pip install geocoder
+     pip install requests
+```
 
 3. Make an API request:
    - Start by importing the necessary libraries:
